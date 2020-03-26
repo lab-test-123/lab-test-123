@@ -6,3 +6,5 @@ This is my professional AWS portfolio.
 Brew
 Git and github
 SSH
+html
+fontawesome
